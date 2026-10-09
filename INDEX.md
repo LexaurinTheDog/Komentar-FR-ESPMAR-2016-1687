@@ -1,0 +1,6 @@
+# INDEX — Commentaire de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française
+
+- [00-introduction.md](00-introduction.md) — Introduction, méthode, données de base
+- [01-definition-des-espaces-maritimes.md](01-definition-des-espaces-maritimes.md) — Chapitre du commentaire 01: Titre Ier — Définition des espaces maritimes : lignes de base, eaux intérieures, mer territoriale, zone contiguë, zone économique exclusive, zone de protection écologique, plateau continental, Zone internationale des fonds marins (art. 1 à 17)
+- [02-exploration-exploitation-zee-plateau.md](02-exploration-exploitation-zee-plateau.md) — Chapitre du commentaire 02: Titres II à II ter — Exploration et exploitation du plateau continental et de la zone économique exclusive, autorisation unique, redevance, câbles et pipelines, sécurité de la navigation, ouvrages flottants (art. 18 à 40-6)
+- [03-recherche-sanctions-outre-mer.md](03-recherche-sanctions-outre-mer.md) — Chapitre du commentaire 03: Titres III à VI — Recherche et études en mer, dispositions pénales et compétence juridictionnelle, outre-mer, dispositions finales (art. 41 à 66)
