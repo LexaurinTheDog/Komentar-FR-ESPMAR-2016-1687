@@ -1,6 +1,6 @@
 # Commentaire de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française
 
-> **À propos du commentaire :** le présent commentaire porte sur l'ordonnance n° 2016-1687 du 8 décembre 2016, examinée article par article — **62 articles** dans leur rédaction consolidée en vigueur. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
+> **À propos du commentaire :** le présent commentaire porte sur l'ordonnance n° 2016-1687 du 8 décembre 2016, examinée article par article — **74 articles** : les 62 articles en vigueur dans leur rédaction consolidée et 12 articles abrogés, abrogatoires ou purement modificatifs, reproduits pour que la numérotation soit complète. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
 
 ## Données de base
 
@@ -22,7 +22,7 @@ Le **titre II** (art. 18 à 40) régit l'exploration et l'exploitation de la zon
 
 Le **titre III** (art. 41 et 41-1) encadre la recherche et les études en mer ; le **titre IV** (art. 42 à 54) contient les dispositions pénales, les habilitations à constater les infractions et les règles de compétence juridictionnelle ; le **titre V** (art. 55) règle l'application outre-mer et le **titre VI** (art. 56 et 66) les dispositions finales.
 
-Dans la version consolidée de la source, les articles 30, 35, 39 et 57 à 65 ne figurent pas, et le titre II ne comporte pas de chapitre VII ; ces articles absents ne sont pas reproduits.
+Les articles qui n'ont pas de rédaction en vigueur sont reproduits tels que la source les présente, afin que la numérotation soit complète : les articles 30, 35 et 39 (ce dernier formant le chapitre VII du titre II, « Règles d'hypothèque »), abrogés, avec la date et le texte d'abrogation, et les articles 57 à 65 du titre VI, purement abrogatoires ou modificatifs, avec la mention « A abrogé » ou « A modifié les dispositions suivantes » et la liste des dispositions visées. Ils font l'objet d'un commentaire bref.
 
 Le commentaire suit cette structure en trois chapitres :
 

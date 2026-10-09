@@ -322,6 +322,144 @@ L'article 56 renvoie à un décret en Conseil d'État la fixation des conditions
 
 Le renvoi général couvre en particulier les points que les articles du titre II laissent ouverts, tels que la procédure d'instruction de l'autorisation unique (art. 20), le montant et la forme des garanties financières (art. 22) ou les modalités de la recherche associée (art. 24 et 25).
 
+### Article 57
+
+**Texte de la disposition:**
+
+> A abrogé les dispositions suivantes :
+>
+> - Loi n° 68-1181 du 30 décembre 1968
+>
+> Sct. Titre Ier : Dispositions générales., Art. 1, Art. 2, Art. 3, Art. 4, Art. 5, Art. 7, Art. 8, Art. 9, Sct. Titre II : Dispositions relatives aux mesures de sécurité., Art. 10, Art. 11, Art. 12, Art. 13, Art. 14, Sct. Titre III : Dispositions douanières et fiscales., Art. 15, Art. 16, Art. 17, Art. 18, Art. 19, Sct. Titre IV : Dispositions relatives aux redevances., Art. 22, Art. 23, Art. 23 bis, Sct. Titre V : Dispositions pénales., Art. 24, Art. 25, Art. 26, Art. 27, Art. 29, Art. 30, Art. 31, Art. 32, Art. 33, Art. 33-1, Art. 33-2, Sct. Titre VI : Dispositions finales., Art. 34, Art. 35, Art. 36, Art. 38
+>
+> A abrogé les dispositions suivantes :
+>
+> - Loi n° 76-655 du 16 juillet 1976
+>
+> Sct. Section 1 : Principes généraux, Art. 1, Art. 2, Art. 4, Art. 5, Sct. Section 2 : Autorisation des activités exercées sur le plateau continental et dans la zone économique exclusive , Art. 6, Sct. Sous-section 1 : Conditions de délivrance de l'autorisation et obligation à l'expiration de l'autorisation, Art. 7, Art. 8, Art. 9, Art. 10, Art. 11, Art. 12, Sct. Sous-section 2 : Redevance , Art. 13, Sct. Sous-section 3 : Sanctions, Art. 14, Sct. Sous-section 4 : Contentieux, Art. 15, Sct. Section 3 : Régime applicable à certains câbles sous-marins et aux pipelines sous-marins, Art. 16, Sct. Section 4 : Application à l'outre-mer
+>
+> , Art. 17
+>
+> A abrogé les dispositions suivantes :
+>
+> - Loi n°71-1060 du 24 décembre 1971
+>
+> Art. 1, Art. 2, Art. 3
+
+L'article 57 est la disposition abrogatoire de l'ordonnance. Selon la source, il a abrogé l'essentiel de la loi n° 68-1181 du 30 décembre 1968 (titres Ier à VI, articles 1er à 38 à l'exception de quelques numéros), l'ensemble de la loi n° 76-655 du 16 juillet 1976 (sections 1 à 4, articles 1er à 17) et les articles 1er à 3 de la loi n° 71-1060 du 24 décembre 1971.
+
+Les intitulés de sections reproduits par la source montrent l'objet des textes abrogés : les dispositions générales, de sécurité, douanières et fiscales, de redevances et pénales relatives au plateau continental (loi de 1968), et le régime de l'autorisation des activités sur le plateau continental et dans la zone économique exclusive, de la redevance, des câbles et pipelines sous-marins (loi de 1976). Ces matières sont désormais traitées, dans l'ordonnance, par les titres II à II ter (articles 18 à 40-2). L'article n'a pas de période de vigueur propre dans la base LEGI : son effet abrogatoire s'est épuisé dans l'abrogation des textes visés.
+
+### Article 58
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code des douanes
+>
+> Art. 44, Art. 44 bis, Art. 63 bis, Art. 196 quater, Art. 196 quinquies
+
+L'article 58 ouvre la série des articles de coordination du titre VI. Selon la source, il a modifié les articles 44, 44 bis, 63 bis, 196 quater et 196 quinquies du code des douanes. Ces modifications accompagnent le régime douanier propre au plateau continental et à la zone économique exclusive, posé au chapitre V du titre II (articles 33 et 34). L'article est purement modificatif et n'a pas de contenu normatif autonome dans la version consolidée.
+
+### Article 59
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code de l'environnement
+>
+> Art. L218-81
+
+L'article 59 a modifié, selon la source, l'article L. 218-81 du code de l'environnement. Comme les autres articles 58 à 65, il est purement modificatif : la base LEGI ne lui attribue pas de période de vigueur, et la règle résultant de la modification doit être recherchée dans le code de l'environnement.
+
+### Article 60
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code de la défense.
+>
+> Art. L1521-9
+
+L'article 60 a modifié, selon la source, l'article L. 1521-9 du code de la défense. Article de coordination du titre VI, il ne régit par lui-même aucune situation ; il est reproduit pour la complétude de la numérotation, la disposition modifiée devant être consultée dans le code de la défense.
+
+### Article 61
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code général des impôts, CGI.
+>
+> Art. 1519, Art. 1587
+
+L'article 61 a modifié, selon la source, les articles 1519 et 1587 du code général des impôts. Il complète, sur le plan fiscal, le chapitre V du titre II, dont l'article 36 fait lui-même référence à la taxe de l'article 1519 B du même code. L'article 61 est purement modificatif et n'a pas de contenu normatif propre dans la version consolidée.
+
+### Article 62
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code minier (nouveau)
+>
+> Art. L123-1, Art. L133-1, Art. L123-4, Art. L133-4, Art. L125-1, Art. L133-3, Art. L134-14, Art. L134-13, Art. L176-3, Art. L311-1, Art. L412-6, Art. L513-4, Art. L513-5, Art. L513-5-1, Art. L513-5-2, Art. L611-30
+>
+> - Décret n° 2006-649 du 2 juin 2006
+>
+> Art. 30-9
+
+L'article 62 est l'article de coordination le plus étendu de l'ordonnance. Selon la source, il a modifié de nombreux articles du code minier (nouveau) — notamment les articles L. 123-1, L. 123-4, L. 125-1, L. 133-1, L. 133-3, L. 133-4, L. 134-13, L. 134-14, L. 176-3, L. 311-1, L. 412-6, L. 513-4 à L. 513-5-2 et L. 611-30 — ainsi que l'article 30-9 du décret n° 2006-649 du 2 juin 2006.
+
+L'importance de ces modifications s'explique par le lien entre l'ordonnance et le code minier : l'article 40 vise ainsi les activités en mer « régies par le code minier ». L'article 62 n'a pas de période de vigueur propre dans la base LEGI ; les règles applicables résultent des textes modifiés, qu'il convient de consulter dans leur rédaction en vigueur.
+
+### Article 63
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code de la recherche
+>
+> Art. L251-1, Art. L251-2, Art. L251-3
+
+L'article 63 a modifié, selon la source, les articles L. 251-1, L. 251-2 et L. 251-3 du code de la recherche. Il fait écho au titre III de l'ordonnance, consacré à la recherche et aux études en mer, en coordonnant le code de la recherche avec le nouveau régime. L'article est purement modificatif et n'a pas de contenu normatif autonome dans la version consolidée.
+
+### Article 64
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code des transports
+>
+> Art. L5211-2, Art. L5211-3-1, Art. L5242-2
+>
+> A créé les dispositions suivantes :
+>
+> - Code des transports
+>
+> Art. L5223-2
+
+L'article 64 concerne le code des transports. Selon la source, il a modifié les articles L. 5211-2, L. 5211-3-1 et L. 5242-2 et créé l'article L. 5223-2 de ce code. Ces opérations se rattachent aux dispositions de l'ordonnance relatives à l'accès au marché du transport et à la situation des marins concourant aux activités sur les îles artificielles, installations et ouvrages (articles 37 et 38), ainsi qu'au régime des ouvrages flottants (article 40-2).
+
+Comme les autres articles 58 à 65, l'article 64 n'a pas de période de vigueur propre dans la base LEGI ; les règles en résultant doivent être recherchées dans le code des transports.
+
+### Article 65
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Loi du 17 décembre 1926
+>
+> Art. 2
+
+L'article 65 est le dernier article de coordination du titre VI. Selon la source, il a modifié l'article 2 de la loi du 17 décembre 1926. Il n'a pas de contenu normatif autonome dans la version consolidée et précède l'article 66, formule exécutoire de l'ordonnance.
+
 ### Article 66
 
 **Texte de la disposition:**
@@ -330,4 +468,4 @@ Le renvoi général couvre en particulier les points que les articles du titre I
 
 L'article 66 est la formule exécutoire usuelle : il énumère les membres du Gouvernement responsables, chacun en ce qui le concerne, de l'application de l'ordonnance et en ordonne la publication au Journal officiel de la République française. Sont désignés le Premier ministre et les ministres chargés des affaires étrangères, de l'environnement, de l'énergie et de la mer, de l'éducation nationale, de l'enseignement supérieur et de la recherche, de l'économie et des finances, de la défense, de la justice, de la culture et des outre-mer.
 
-La liste reflète le caractère transversal de la matière : délimitation des espaces et patronage dans la Zone internationale (affaires étrangères), régime des activités en mer et environnement (mer et environnement), recherche scientifique (recherche), fiscalité et douanes (finances), sécurité maritime (défense), répression (justice), biens culturels maritimes (culture) et application ultramarine (outre-mer). La numérotation passe de l'article 56 à l'article 66, les articles intermédiaires ne figurant pas dans la version consolidée de la source. Selon la note finale de la source, l'ordonnance a été ratifiée par l'article 135 de la loi n° 2019-1428 du 24 décembre 2019.
+La liste reflète le caractère transversal de la matière : délimitation des espaces et patronage dans la Zone internationale (affaires étrangères), régime des activités en mer et environnement (mer et environnement), recherche scientifique (recherche), fiscalité et douanes (finances), sécurité maritime (défense), répression (justice), biens culturels maritimes (culture) et application ultramarine (outre-mer). Les articles 57 à 65, qui le séparent de la formule exécutoire de l'article 66, sont des articles purement abrogatoires ou modificatifs (voir leur commentaire). Selon la note finale de la source, l'ordonnance a été ratifiée par l'article 135 de la loi n° 2019-1428 du 24 décembre 2019.
